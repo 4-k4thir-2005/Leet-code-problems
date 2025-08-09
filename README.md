@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0389-find-the-difference) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0344-reverse-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0344-reverse-string) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -27,8 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Sorting
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0389-find-the-difference) |
+## Math
+|  |
+| ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 <!---LeetCode Topics End-->

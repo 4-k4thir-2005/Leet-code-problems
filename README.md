@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0389-find-the-difference) |
 | [0049-group-anagrams](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0049-group-anagrams) |
+| [1319-unique-number-of-occurrences](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1319-unique-number-of-occurrences) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -49,4 +50,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0049-group-anagrams) |
+| [1319-unique-number-of-occurrences](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1319-unique-number-of-occurrences) |
 <!---LeetCode Topics End-->

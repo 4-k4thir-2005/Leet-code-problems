@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0541-reverse-string-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0541-reverse-string-ii) |
 | [0049-group-anagrams](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0049-group-anagrams) |
+| [0038-count-and-say](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0038-count-and-say) |
 ## Dynamic Programming
 |  |
 | ------- |

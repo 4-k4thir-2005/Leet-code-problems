@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0344-reverse-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0541-reverse-string-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0541-reverse-string-ii) |
+| [0049-group-anagrams](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0049-group-anagrams) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0389-find-the-difference) |
+| [0049-group-anagrams](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0049-group-anagrams) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -35,8 +37,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0389-find-the-difference) |
+| [0049-group-anagrams](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0049-group-anagrams) |
 ## Math
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
+## Array
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->

@@ -1,0 +1,27 @@
+class Solution {
+    public String countAndSay(int n) {
+        String s = "1";
+        
+        for (int i = 1; i < n; i++) {
+            StringBuilder temp = new StringBuilder();
+            int idx = 0;
+            
+            while (idx < s.length()) {
+                char current = s.charAt(idx);
+                int count = 0;
+                
+                // count identical characters in a row
+                while (idx < s.length() && s.charAt(idx) == current) {
+                    count++;
+                    idx++;
+                }
+                
+                temp.append(count).append(current);
+            }
+            
+            s = temp.toString();
+        }
+        
+        return s;
+    }
+}

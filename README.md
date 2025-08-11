@@ -46,9 +46,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0944-smallest-range-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0944-smallest-range-i) |
 ## Array
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0049-group-anagrams) |
 | [1319-unique-number-of-occurrences](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1319-unique-number-of-occurrences) |
+| [0944-smallest-range-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0944-smallest-range-i) |
 <!---LeetCode Topics End-->

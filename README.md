@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [1610-xor-operation-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1610-xor-operation-in-an-array) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 ## Sorting
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-smallest-range-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0944-smallest-range-i) |
 | [1610-xor-operation-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1610-xor-operation-in-an-array) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 ## Array
 |  |
 | ------- |

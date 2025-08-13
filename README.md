@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-xor-operation-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1610-xor-operation-in-an-array) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [0078-subsets](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0078-subsets) |
 ## Sorting
 |  |
 | ------- |
@@ -62,4 +63,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0049-group-anagrams) |
 | [1319-unique-number-of-occurrences](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1319-unique-number-of-occurrences) |
 | [0944-smallest-range-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0944-smallest-range-i) |
+| [0078-subsets](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0078-subsets) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

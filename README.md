@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0078-subsets](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0137-single-number-ii) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0201-bitwise-and-of-numbers-range) |
 ## Sorting
 |  |
 | ------- |

@@ -46,11 +46,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0201-bitwise-and-of-numbers-range) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Sorting
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0389-find-the-difference) |
 | [0049-group-anagrams](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0049-group-anagrams) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Math
 |  |
 | ------- |
@@ -67,8 +69,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-smallest-range-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0944-smallest-range-i) |
 | [0078-subsets](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0137-single-number-ii) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Backtracking
 |  |
 | ------- |
 | [0078-subsets](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0078-subsets) |
+## Counting
+|  |
+| ------- |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->

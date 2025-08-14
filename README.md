@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0541-reverse-string-ii) |
 | [0049-group-anagrams](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0049-group-anagrams) |
 | [0038-count-and-say](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0038-count-and-say) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0389-find-the-difference) |
 | [0049-group-anagrams](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0049-group-anagrams) |
 | [1319-unique-number-of-occurrences](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1319-unique-number-of-occurrences) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0201-bitwise-and-of-numbers-range) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0137-single-number-ii) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Backtracking
 |  |
 | ------- |
@@ -78,4 +82,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->

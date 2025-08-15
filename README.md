@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0038-count-and-say) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2427-first-letter-to-appear-twice](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2427-first-letter-to-appear-twice) |
+| [0318-maximum-product-of-word-lengths](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0318-maximum-product-of-word-lengths) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0287-find-the-duplicate-number) |
 | [0029-divide-two-integers](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0029-divide-two-integers) |
 | [0260-single-number-iii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0260-single-number-iii) |
+| [0318-maximum-product-of-word-lengths](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0318-maximum-product-of-word-lengths) |
 ## Sorting
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [0287-find-the-duplicate-number](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0287-find-the-duplicate-number) |
 | [0260-single-number-iii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0260-single-number-iii) |
+| [0318-maximum-product-of-word-lengths](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0318-maximum-product-of-word-lengths) |
 ## Backtracking
 |  |
 | ------- |

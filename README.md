@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2427-first-letter-to-appear-twice) |
 | [0287-find-the-duplicate-number](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0287-find-the-duplicate-number) |
 | [0029-divide-two-integers](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0029-divide-two-integers) |
+| [0260-single-number-iii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0260-single-number-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [0287-find-the-duplicate-number](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0287-find-the-duplicate-number) |
+| [0260-single-number-iii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0260-single-number-iii) |
 ## Backtracking
 |  |
 | ------- |

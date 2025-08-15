@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0392-is-subsequence) |
 | [0344-reverse-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0541-reverse-string-ii) |
+| [0287-find-the-duplicate-number](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2427-first-letter-to-appear-twice](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2427-first-letter-to-appear-twice) |
+| [0287-find-the-duplicate-number](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0137-single-number-ii) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [0287-find-the-duplicate-number](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0287-find-the-duplicate-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -87,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2427-first-letter-to-appear-twice](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2427-first-letter-to-appear-twice) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->

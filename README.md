@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0204-count-primes) |
 | [0233-number-of-digit-one](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0233-number-of-digit-one) |
+| [0728-self-dividing-numbers](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0728-self-dividing-numbers) |
 ## Array
 |  |
 | ------- |

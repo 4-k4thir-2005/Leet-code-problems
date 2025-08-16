@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0029-divide-two-integers](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0050-powx-n) |
 ## Array
 |  |
 | ------- |
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0287-find-the-duplicate-number) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->

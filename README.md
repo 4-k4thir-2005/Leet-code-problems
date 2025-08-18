@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0541-reverse-string-ii) |
 | [0287-find-the-duplicate-number](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0287-find-the-duplicate-number) |
+| [2634-minimum-common-value](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2634-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1319-unique-number-of-occurrences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2427-first-letter-to-appear-twice](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2427-first-letter-to-appear-twice) |
+| [2634-minimum-common-value](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2634-minimum-common-value) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0260-single-number-iii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0318-maximum-product-of-word-lengths) |
 | [0204-count-primes](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0204-count-primes) |
+| [2634-minimum-common-value](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2634-minimum-common-value) |
 ## Backtracking
 |  |
 | ------- |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0287-find-the-duplicate-number) |
+| [2634-minimum-common-value](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2634-minimum-common-value) |
 ## Recursion
 |  |
 | ------- |

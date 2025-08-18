@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1635-number-of-good-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Array
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2634-minimum-common-value) |
 | [1635-number-of-good-pairs](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1635-number-of-good-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0204-count-primes) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Prefix Sum
 |  |
 | ------- |

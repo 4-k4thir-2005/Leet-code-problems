@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0728-self-dividing-numbers) |
 | [1635-number-of-good-pairs](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1635-number-of-good-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Array
 |  |
 | ------- |

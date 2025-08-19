@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2427-first-letter-to-appear-twice) |
 | [2634-minimum-common-value](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2634-minimum-common-value) |
 | [1635-number-of-good-pairs](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1635-number-of-good-pairs) |
+| [0594-longest-harmonious-subsequence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0594-longest-harmonious-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0389-find-the-difference) |
 | [0049-group-anagrams](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0049-group-anagrams) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [0594-longest-harmonious-subsequence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0594-longest-harmonious-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1635-number-of-good-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0594-longest-harmonious-subsequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2427-first-letter-to-appear-twice](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2427-first-letter-to-appear-twice) |
 | [1635-number-of-good-pairs](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1635-number-of-good-pairs) |
+| [0594-longest-harmonious-subsequence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0594-longest-harmonious-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -138,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
+## Sliding Window
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->

@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2427-first-letter-to-appear-twice](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2427-first-letter-to-appear-twice) |
 | [0318-maximum-product-of-word-lengths](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0318-maximum-product-of-word-lengths) |
+| [0889-buddy-strings](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0889-buddy-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2634-minimum-common-value) |
 | [1635-number-of-good-pairs](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1635-number-of-good-pairs) |
 | [0594-longest-harmonious-subsequence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0594-longest-harmonious-subsequence) |
+| [0889-buddy-strings](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0889-buddy-strings) |
 ## Bit Manipulation
 |  |
 | ------- |

@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0889-buddy-strings](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0889-buddy-strings) |
 | [0229-majority-element-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [0594-longest-harmonious-subsequence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0229-majority-element-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0229-majority-element-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0347-top-k-frequent-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1635-number-of-good-pairs) |
 | [0594-longest-harmonious-subsequence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0229-majority-element-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -157,4 +161,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

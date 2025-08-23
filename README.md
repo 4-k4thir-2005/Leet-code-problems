@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0347-top-k-frequent-elements) |
 | [0041-first-missing-positive](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0073-set-matrix-zeroes) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0347-top-k-frequent-elements) |
 | [0041-first-missing-positive](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0073-set-matrix-zeroes) |
 ## Backtracking
 |  |
 | ------- |
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0347-top-k-frequent-elements) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->

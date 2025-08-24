@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0347-top-k-frequent-elements) |
 | [0041-first-missing-positive](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0073-set-matrix-zeroes) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0229-majority-element-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0347-top-k-frequent-elements) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0347-top-k-frequent-elements) |
 | [0041-first-missing-positive](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0073-set-matrix-zeroes) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -185,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0073-set-matrix-zeroes) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->

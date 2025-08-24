@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-buddy-strings](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0889-buddy-strings) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2058-concatenation-of-array) |
 | [1603-running-sum-of-1d-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1603-running-sum-of-1d-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Backtracking
 |  |
 | ------- |

@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-convert-date-to-binary](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3567-convert-date-to-binary) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2391-strong-password-checker-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2391-strong-password-checker-ii) |
 ## Dynamic Programming
 |  |
 | ------- |

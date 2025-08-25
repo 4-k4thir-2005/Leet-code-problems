@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1651-shuffle-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1651-shuffle-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1505-create-target-array-in-the-given-order](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1505-create-target-array-in-the-given-order) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [1651-shuffle-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1651-shuffle-string) |
 ## Backtracking
 |  |
 | ------- |

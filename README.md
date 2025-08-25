@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## String
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1651-shuffle-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1651-shuffle-string) |
 | [3567-convert-date-to-binary](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3567-convert-date-to-binary) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [1651-shuffle-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1651-shuffle-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Backtracking
 |  |
 | ------- |

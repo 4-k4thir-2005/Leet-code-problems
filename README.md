@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0541-reverse-string-ii) |
 | [0287-find-the-duplicate-number](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0287-find-the-duplicate-number) |
 | [2634-minimum-common-value](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2634-minimum-common-value) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0347-top-k-frequent-elements) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Math
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1505-create-target-array-in-the-given-order](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1505-create-target-array-in-the-given-order) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Backtracking
 |  |
 | ------- |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0287-find-the-duplicate-number) |
 | [2634-minimum-common-value](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2634-minimum-common-value) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Recursion
 |  |
 | ------- |

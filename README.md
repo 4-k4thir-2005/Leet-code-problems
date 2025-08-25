@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0029-divide-two-integers) |
 | [0260-single-number-iii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0260-single-number-iii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0318-maximum-product-of-word-lengths) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Sorting
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Array
 |  |
 | ------- |
@@ -129,10 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1603-running-sum-of-1d-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Backtracking
 |  |
 | ------- |
 | [0078-subsets](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0078-subsets) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Counting
 |  |
 | ------- |
@@ -157,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0204-count-primes) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Number Theory
 |  |
 | ------- |
@@ -203,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2058-concatenation-of-array) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->

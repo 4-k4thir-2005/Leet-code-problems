@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0073-set-matrix-zeroes) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1848-sum-of-unique-elements](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1848-sum-of-unique-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1651-shuffle-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [1848-sum-of-unique-elements](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1848-sum-of-unique-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0229-majority-element-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0347-top-k-frequent-elements) |
+| [1848-sum-of-unique-elements](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1848-sum-of-unique-elements) |
 ## Binary Search
 |  |
 | ------- |

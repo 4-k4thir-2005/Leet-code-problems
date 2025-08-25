@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [1505-create-target-array-in-the-given-order](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1505-create-target-array-in-the-given-order) |
 ## Backtracking
 |  |
 | ------- |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2058-concatenation-of-array) |
+| [1505-create-target-array-in-the-given-order](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1505-create-target-array-in-the-given-order) |
 ## Combinatorics
 |  |
 | ------- |

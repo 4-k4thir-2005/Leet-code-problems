@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1848-sum-of-unique-elements](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1848-sum-of-unique-elements) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3227-find-missing-and-repeated-values](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3567-convert-date-to-binary](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3567-convert-date-to-binary) |
+| [3227-find-missing-and-repeated-values](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Array
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [1848-sum-of-unique-elements](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1848-sum-of-unique-elements) |
+| [3227-find-missing-and-repeated-values](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Backtracking
 |  |
 | ------- |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0073-set-matrix-zeroes) |
+| [3227-find-missing-and-repeated-values](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Counting Sort
 |  |
 | ------- |

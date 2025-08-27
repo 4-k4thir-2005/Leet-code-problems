@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2391-strong-password-checker-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2391-strong-password-checker-ii) |
 | [1542-consecutive-characters](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1542-consecutive-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [1904-second-largest-digit-in-a-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1904-second-largest-digit-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3227-find-missing-and-repeated-values](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3242-count-elements-with-maximum-frequency) |
+| [1904-second-largest-digit-in-a-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1904-second-largest-digit-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |

@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2190-count-common-words-with-one-occurrence) |
 | [0792-binary-search](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0792-binary-search) |
+| [3429-special-array-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3429-special-array-i) |
 ## Backtracking
 |  |
 | ------- |

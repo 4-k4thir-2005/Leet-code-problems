@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2190-count-common-words-with-one-occurrence) |
+| [1954-replace-all-digits-with-characters](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1954-replace-all-digits-with-characters) |
 ## Dynamic Programming
 |  |
 | ------- |

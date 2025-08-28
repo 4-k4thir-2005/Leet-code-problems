@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [1904-second-largest-digit-in-a-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1904-second-largest-digit-in-a-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1848-sum-of-unique-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3242-count-elements-with-maximum-frequency) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 ## Backtracking
 |  |
 | ------- |

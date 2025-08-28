@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2190-count-common-words-with-one-occurrence) |
+| [0792-binary-search](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0792-binary-search) |
 ## Backtracking
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [0792-binary-search](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0792-binary-search) |
 ## Recursion
 |  |
 | ------- |

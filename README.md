@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2190-count-common-words-with-one-occurrence) |
 | [0792-binary-search](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0792-binary-search) |
 | [3429-special-array-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3429-special-array-i) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0204-count-primes) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Number Theory
 |  |
 | ------- |

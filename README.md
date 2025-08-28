@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Backtracking
 |  |
 | ------- |

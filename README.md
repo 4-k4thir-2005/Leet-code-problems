@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0792-binary-search) |
 | [3429-special-array-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3429-special-array-i) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2844-sum-of-squares-of-special-elements) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Backtracking
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [0792-binary-search](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0792-binary-search) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Recursion
 |  |
 | ------- |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0073-set-matrix-zeroes) |
 | [3227-find-missing-and-repeated-values](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3227-find-missing-and-repeated-values) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Counting Sort
 |  |
 | ------- |

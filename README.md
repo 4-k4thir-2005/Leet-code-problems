@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1904-second-largest-digit-in-a-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1904-second-largest-digit-in-a-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Backtracking
 |  |
 | ------- |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Binary Search
 |  |
 | ------- |

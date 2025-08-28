@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2190-count-common-words-with-one-occurrence) |
 | [1954-replace-all-digits-with-characters](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1954-replace-all-digits-with-characters) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3429-special-array-i) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2844-sum-of-squares-of-special-elements) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -273,4 +275,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Trie
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## String Matching
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->

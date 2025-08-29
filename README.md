@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2190-count-common-words-with-one-occurrence) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3408-count-the-number-of-special-characters-i) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2190-count-common-words-with-one-occurrence) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Binary Search
 |  |
 | ------- |

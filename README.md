@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1954-replace-all-digits-with-characters](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1954-replace-all-digits-with-characters) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3408-count-the-number-of-special-characters-i) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2844-sum-of-squares-of-special-elements](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2844-sum-of-squares-of-special-elements) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Backtracking
 |  |
 | ------- |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Hash Function
 |  |
 | ------- |

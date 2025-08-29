@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3567-convert-date-to-binary](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3567-convert-date-to-binary) |
 | [3227-find-missing-and-repeated-values](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3227-find-missing-and-repeated-values) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Array
 |  |
 | ------- |

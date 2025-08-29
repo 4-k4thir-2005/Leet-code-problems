@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0347-top-k-frequent-elements) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Math
 |  |
 | ------- |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Recursion
 |  |
 | ------- |

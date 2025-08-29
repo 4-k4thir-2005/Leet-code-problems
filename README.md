@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3408-count-the-number-of-special-characters-i) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2190-count-common-words-with-one-occurrence) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3408-count-the-number-of-special-characters-i) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2058-concatenation-of-array) |
 | [1505-create-target-array-in-the-given-order](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1505-create-target-array-in-the-given-order) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Combinatorics
 |  |
 | ------- |

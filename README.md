@@ -49,12 +49,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3408-count-the-number-of-special-characters-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3408-count-the-number-of-special-characters-i) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [1764-maximum-repeating-substring](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1764-maximum-repeating-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0392-is-subsequence) |
 | [0338-counting-bits](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0338-counting-bits) |
 | [0233-number-of-digit-one](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0233-number-of-digit-one) |
+| [1764-maximum-repeating-substring](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1764-maximum-repeating-substring) |
 ## Hash Table
 |  |
 | ------- |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2292-counting-words-with-a-given-prefix) |
+| [1764-maximum-repeating-substring](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1764-maximum-repeating-substring) |
 ## Hash Function
 |  |
 | ------- |

@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2210-find-target-indices-after-sorting-array) |
+| [3859-maximum-product-of-two-digits](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3859-maximum-product-of-two-digits) |
 ## Math
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [0371-sum-of-two-integers](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0371-sum-of-two-integers) |
+| [3859-maximum-product-of-two-digits](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3859-maximum-product-of-two-digits) |
 ## Array
 |  |
 | ------- |

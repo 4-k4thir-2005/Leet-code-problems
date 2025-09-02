@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2608-count-the-digits-that-divide-a-number](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [0371-sum-of-two-integers](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0371-sum-of-two-integers) |
 | [3859-maximum-product-of-two-digits](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3859-maximum-product-of-two-digits) |
+| [3371-harshad-number](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3371-harshad-number) |
 ## Array
 |  |
 | ------- |

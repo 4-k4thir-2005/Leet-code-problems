@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3859-maximum-product-of-two-digits](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3859-maximum-product-of-two-digits) |
 | [3371-harshad-number](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3371-harshad-number) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [1585-the-kth-factor-of-n](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1585-the-kth-factor-of-n) |
 ## Array
 |  |
 | ------- |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0204-count-primes) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [1585-the-kth-factor-of-n](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1585-the-kth-factor-of-n) |
 ## Prefix Sum
 |  |
 | ------- |

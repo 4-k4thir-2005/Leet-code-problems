@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Backtracking
 |  |
 | ------- |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0073-set-matrix-zeroes) |
 | [3227-find-missing-and-repeated-values](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Counting Sort
 |  |
 | ------- |

@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3859-maximum-product-of-two-digits](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3859-maximum-product-of-two-digits) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Math
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1677-matrix-diagonal-sum) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Backtracking
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2210-find-target-indices-after-sorting-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Recursion
 |  |
 | ------- |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -295,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1677-matrix-diagonal-sum) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Counting Sort
 |  |
 | ------- |

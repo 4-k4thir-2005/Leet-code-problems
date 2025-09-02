@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0371-sum-of-two-integers) |
 | [3859-maximum-product-of-two-digits](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3859-maximum-product-of-two-digits) |
 | [3371-harshad-number](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3371-harshad-number) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Array
 |  |
 | ------- |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2210-find-target-indices-after-sorting-array) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Backtracking
 |  |
 | ------- |

@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [1764-maximum-repeating-substring](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1764-maximum-repeating-substring) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2308-divide-array-into-equal-pairs) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [0371-sum-of-two-integers](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0371-sum-of-two-integers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2308-divide-array-into-equal-pairs) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Sorting
 |  |
 | ------- |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## String Matching
 |  |
 | ------- |
@@ -337,4 +341,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->

@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## String
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [1764-maximum-repeating-substring](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1764-maximum-repeating-substring) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [1764-maximum-repeating-substring](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1764-maximum-repeating-substring) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Hash Function
 |  |
 | ------- |

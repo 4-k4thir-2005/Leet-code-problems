@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1894-merge-strings-alternately) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2128-reverse-prefix-of-word](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2128-reverse-prefix-of-word) |
+| [2698-find-the-array-concatenation-value](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2698-find-the-array-concatenation-value) |
 ## String
 |  |
 | ------- |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2698-find-the-array-concatenation-value](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2698-find-the-array-concatenation-value) |
 ## Backtracking
 |  |
 | ------- |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1505-create-target-array-in-the-given-order) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2698-find-the-array-concatenation-value](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2698-find-the-array-concatenation-value) |
 ## Combinatorics
 |  |
 | ------- |

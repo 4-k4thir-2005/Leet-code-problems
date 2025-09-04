@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1894-merge-strings-alternately](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1764-maximum-repeating-substring](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1764-maximum-repeating-substring) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1894-merge-strings-alternately](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |

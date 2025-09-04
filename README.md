@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1894-merge-strings-alternately) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 ## String
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1894-merge-strings-alternately) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1677-matrix-diagonal-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2308-divide-array-into-equal-pairs) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 ## Backtracking
 |  |
 | ------- |

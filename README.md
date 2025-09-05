@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2698-find-the-array-concatenation-value) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1646-kth-missing-positive-number](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1646-kth-missing-positive-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1646-kth-missing-positive-number](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1646-kth-missing-positive-number) |
 ## Recursion
 |  |
 | ------- |

@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2128-reverse-prefix-of-word) |
 | [2698-find-the-array-concatenation-value](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2698-find-the-array-concatenation-value) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 ## String
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2128-reverse-prefix-of-word](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2128-reverse-prefix-of-word) |
 | [1297-maximum-number-of-balloons](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1297-maximum-number-of-balloons) |
+| [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 ## Dynamic Programming
 |  |
 | ------- |

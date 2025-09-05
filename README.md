@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2128-reverse-prefix-of-word](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2128-reverse-prefix-of-word) |
 | [2698-find-the-array-concatenation-value](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2698-find-the-array-concatenation-value) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## String
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3859-maximum-product-of-two-digits](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3859-maximum-product-of-two-digits) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Math
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2698-find-the-array-concatenation-value) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Backtracking
 |  |
 | ------- |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Recursion
 |  |
 | ------- |
@@ -286,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1603-running-sum-of-1d-array) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sliding Window
 |  |
 | ------- |

@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3859-maximum-product-of-two-digits](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3859-maximum-product-of-two-digits) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Backtracking
 |  |
 | ------- |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Recursion
 |  |
 | ------- |

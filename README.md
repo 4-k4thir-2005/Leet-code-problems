@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2698-find-the-array-concatenation-value](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2698-find-the-array-concatenation-value) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1646-kth-missing-positive-number](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1646-kth-missing-positive-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1646-kth-missing-positive-number](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1646-kth-missing-positive-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Recursion
 |  |
 | ------- |

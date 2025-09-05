@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0540-single-element-in-a-sorted-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0540-single-element-in-a-sorted-array) |
 ## Recursion
 |  |
 | ------- |

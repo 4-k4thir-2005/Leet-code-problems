@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2128-reverse-prefix-of-word) |
 | [1297-maximum-number-of-balloons](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1297-maximum-number-of-balloons) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2128-reverse-prefix-of-word) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |

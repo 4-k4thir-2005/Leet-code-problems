@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1646-kth-missing-positive-number](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1646-kth-missing-positive-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0162-find-peak-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1646-kth-missing-positive-number](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1646-kth-missing-positive-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0162-find-peak-element) |
 ## Recursion
 |  |
 | ------- |

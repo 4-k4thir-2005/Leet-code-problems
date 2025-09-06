@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1297-maximum-number-of-balloons) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 ## Dynamic Programming
 |  |
 | ------- |

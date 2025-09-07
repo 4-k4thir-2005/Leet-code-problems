@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1585-the-kth-factor-of-n](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1585-the-kth-factor-of-n) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [0048-rotate-image](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0048-rotate-image) |
 ## Array
 |  |
 | ------- |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [0015-3sum](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0015-3sum) |
+| [0048-rotate-image](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0048-rotate-image) |
 ## Backtracking
 |  |
 | ------- |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1677-matrix-diagonal-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0048-rotate-image](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0048-rotate-image) |
 ## Counting Sort
 |  |
 | ------- |

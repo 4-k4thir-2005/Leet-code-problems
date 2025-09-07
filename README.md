@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [1585-the-kth-factor-of-n](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1585-the-kth-factor-of-n) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Array
 |  |
 | ------- |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Backtracking
 |  |
 | ------- |

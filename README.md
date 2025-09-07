@@ -398,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->

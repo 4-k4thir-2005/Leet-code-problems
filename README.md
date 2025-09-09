@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [0015-3sum](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0015-3sum) |
+| [0633-sum-of-square-numbers](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0633-sum-of-square-numbers) |
 ## String
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [0048-rotate-image](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0048-rotate-image) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [0633-sum-of-square-numbers](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0633-sum-of-square-numbers) |
 ## Array
 |  |
 | ------- |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [0633-sum-of-square-numbers](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0633-sum-of-square-numbers) |
 ## Recursion
 |  |
 | ------- |

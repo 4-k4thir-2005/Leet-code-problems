@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0338-counting-bits) |
 | [0233-number-of-digit-one](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0233-number-of-digit-one) |
 | [1764-maximum-repeating-substring](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1764-maximum-repeating-substring) |
+| [0053-maximum-subarray](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0048-rotate-image) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [0692-top-k-frequent-words](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0692-top-k-frequent-words) |
+| [0053-maximum-subarray](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0053-maximum-subarray) |
 ## Backtracking
 |  |
 | ------- |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0347-top-k-frequent-elements) |
 | [0240-search-a-2d-matrix-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0053-maximum-subarray](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0053-maximum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

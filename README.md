@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1297-maximum-number-of-balloons](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1297-maximum-number-of-balloons) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [0048-rotate-image](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0048-rotate-image) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Array
 |  |
 | ------- |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [0015-3sum](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0048-rotate-image) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Backtracking
 |  |
 | ------- |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [1297-maximum-number-of-balloons](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1297-maximum-number-of-balloons) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -315,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0204-count-primes) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [1585-the-kth-factor-of-n](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1585-the-kth-factor-of-n) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Prefix Sum
 |  |
 | ------- |

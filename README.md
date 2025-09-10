@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1764-maximum-repeating-substring](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1764-maximum-repeating-substring) |
 | [0053-maximum-subarray](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0300-longest-increasing-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0692-top-k-frequent-words) |
 | [0053-maximum-subarray](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0300-longest-increasing-subsequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0633-sum-of-square-numbers) |
+| [0300-longest-increasing-subsequence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0300-longest-increasing-subsequence) |
 ## Recursion
 |  |
 | ------- |

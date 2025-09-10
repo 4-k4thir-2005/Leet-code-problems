@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0233-number-of-digit-one) |
 | [1764-maximum-repeating-substring](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1764-maximum-repeating-substring) |
 | [0053-maximum-subarray](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0152-maximum-product-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [0692-top-k-frequent-words](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0692-top-k-frequent-words) |
 | [0053-maximum-subarray](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0152-maximum-product-subarray) |
 ## Backtracking
 |  |
 | ------- |

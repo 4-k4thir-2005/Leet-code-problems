@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0692-top-k-frequent-words) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1524-string-matching-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1524-string-matching-in-an-array) |
+| [1660-thousand-separator](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1660-thousand-separator) |
 ## Dynamic Programming
 |  |
 | ------- |

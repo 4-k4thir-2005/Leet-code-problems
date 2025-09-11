@@ -430,4 +430,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0183-customers-who-never-order) |
 | [1179-game-play-analysis-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1179-game-play-analysis-i) |
 | [1877-find-followers-count](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1877-find-followers-count) |
+| [1811-fix-names-in-a-table](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1811-fix-names-in-a-table) |
 <!---LeetCode Topics End-->

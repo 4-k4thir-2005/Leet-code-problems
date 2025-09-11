@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [0692-top-k-frequent-words](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0692-top-k-frequent-words) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1297-maximum-number-of-balloons) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [0692-top-k-frequent-words](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0692-top-k-frequent-words) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0300-longest-increasing-subsequence) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 ## Backtracking
 |  |
 | ------- |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1297-maximum-number-of-balloons) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [0692-top-k-frequent-words](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0692-top-k-frequent-words) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 ## Binary Search
 |  |
 | ------- |

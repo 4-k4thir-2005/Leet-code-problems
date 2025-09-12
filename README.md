@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1524-string-matching-in-an-array) |
 | [1660-thousand-separator](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1660-thousand-separator) |
 | [1944-truncate-sentence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1944-truncate-sentence) |
+| [3462-vowels-game-in-a-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3462-vowels-game-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0048-rotate-image) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [0633-sum-of-square-numbers](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0633-sum-of-square-numbers) |
+| [3462-vowels-game-in-a-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3462-vowels-game-in-a-string) |
 ## Array
 |  |
 | ------- |
@@ -441,4 +443,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1179-game-play-analysis-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1179-game-play-analysis-i) |
 | [1877-find-followers-count](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1877-find-followers-count) |
 | [1811-fix-names-in-a-table](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1811-fix-names-in-a-table) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->

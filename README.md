@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2502-sort-the-people) |
 | [3636-check-balanced-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3636-check-balanced-string) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2010-check-if-word-equals-summation-of-two-words) |
+| [2032-largest-odd-number-in-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [0633-sum-of-square-numbers](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0633-sum-of-square-numbers) |
 | [3462-vowels-game-in-a-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3462-vowels-game-in-a-string) |
+| [2032-largest-odd-number-in-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2032-largest-odd-number-in-string) |
 ## Array
 |  |
 | ------- |
@@ -457,4 +459,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3462-vowels-game-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->

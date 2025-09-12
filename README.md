@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1524-string-matching-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1524-string-matching-in-an-array) |
 | [1660-thousand-separator](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1660-thousand-separator) |
+| [1944-truncate-sentence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1944-truncate-sentence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0300-longest-increasing-subsequence) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1524-string-matching-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1524-string-matching-in-an-array) |
+| [1944-truncate-sentence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1944-truncate-sentence) |
 ## Backtracking
 |  |
 | ------- |

@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3462-vowels-game-in-a-string) |
 | [2502-sort-the-people](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2502-sort-the-people) |
 | [3636-check-balanced-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3636-check-balanced-string) |
+| [2010-check-if-word-equals-summation-of-two-words](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 ## Dynamic Programming
 |  |
 | ------- |

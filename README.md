@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1660-thousand-separator](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1660-thousand-separator) |
 | [1944-truncate-sentence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1944-truncate-sentence) |
 | [3462-vowels-game-in-a-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3462-vowels-game-in-a-string) |
+| [2502-sort-the-people](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2502-sort-the-people) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [0692-top-k-frequent-words](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0692-top-k-frequent-words) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [2502-sort-the-people](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2502-sort-the-people) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [0015-3sum](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0015-3sum) |
 | [0692-top-k-frequent-words](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0692-top-k-frequent-words) |
+| [2502-sort-the-people](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2502-sort-the-people) |
 ## Math
 |  |
 | ------- |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1524-string-matching-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1524-string-matching-in-an-array) |
 | [1944-truncate-sentence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1944-truncate-sentence) |
+| [2502-sort-the-people](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2502-sort-the-people) |
 ## Backtracking
 |  |
 | ------- |

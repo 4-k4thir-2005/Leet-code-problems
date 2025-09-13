@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3636-check-balanced-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3636-check-balanced-string) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2032-largest-odd-number-in-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2032-largest-odd-number-in-string) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1430-find-the-k-beauty-of-a-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3462-vowels-game-in-a-string) |
 | [2032-largest-odd-number-in-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2032-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2383-add-two-integers) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1430-find-the-k-beauty-of-a-number) |
 ## Array
 |  |
 | ------- |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1430-find-the-k-beauty-of-a-number) |
 ## Stack
 |  |
 | ------- |

@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2298-count-integers-with-even-digit-sum](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2288-count-operations-to-obtain-zero](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2491-smallest-even-multiple](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2491-smallest-even-multiple) |
+| [2752-sum-multiples](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2752-sum-multiples) |
 ## Array
 |  |
 | ------- |

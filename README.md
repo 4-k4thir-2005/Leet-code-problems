@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2032-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2383-add-two-integers) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2298-count-integers-with-even-digit-sum) |
 ## Array
 |  |
 | ------- |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2698-find-the-array-concatenation-value](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2698-find-the-array-concatenation-value) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2298-count-integers-with-even-digit-sum) |
 ## Combinatorics
 |  |
 | ------- |

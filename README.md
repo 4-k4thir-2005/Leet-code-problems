@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1430-find-the-k-beauty-of-a-number](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2288-count-operations-to-obtain-zero](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2288-count-operations-to-obtain-zero) |
+| [2491-smallest-even-multiple](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2491-smallest-even-multiple) |
 ## Array
 |  |
 | ------- |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [1585-the-kth-factor-of-n](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1585-the-kth-factor-of-n) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [2491-smallest-even-multiple](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2491-smallest-even-multiple) |
 ## Prefix Sum
 |  |
 | ------- |

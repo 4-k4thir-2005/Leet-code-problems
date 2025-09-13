@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0692-top-k-frequent-words) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [2502-sort-the-people](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2502-sort-the-people) |
+| [2679-count-distinct-numbers-on-board](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2679-count-distinct-numbers-on-board) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2491-smallest-even-multiple) |
 | [2752-sum-multiples](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2752-sum-multiples) |
 | [1806-count-of-matches-in-tournament](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1806-count-of-matches-in-tournament) |
+| [2679-count-distinct-numbers-on-board](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2679-count-distinct-numbers-on-board) |
 ## Array
 |  |
 | ------- |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1524-string-matching-in-an-array) |
 | [1944-truncate-sentence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1944-truncate-sentence) |
 | [2502-sort-the-people](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2502-sort-the-people) |
+| [2679-count-distinct-numbers-on-board](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2679-count-distinct-numbers-on-board) |
 ## Backtracking
 |  |
 | ------- |
@@ -428,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2298-count-integers-with-even-digit-sum](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2288-count-operations-to-obtain-zero](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [1806-count-of-matches-in-tournament](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1806-count-of-matches-in-tournament) |
+| [2679-count-distinct-numbers-on-board](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2679-count-distinct-numbers-on-board) |
 ## Combinatorics
 |  |
 | ------- |

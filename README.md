@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2032-largest-odd-number-in-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2032-largest-odd-number-in-string) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [3055-maximum-odd-binary-number](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3055-maximum-odd-binary-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2752-sum-multiples](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2752-sum-multiples) |
 | [1806-count-of-matches-in-tournament](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1806-count-of-matches-in-tournament) |
 | [2679-count-distinct-numbers-on-board](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2679-count-distinct-numbers-on-board) |
+| [3055-maximum-odd-binary-number](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3055-maximum-odd-binary-number) |
 ## Array
 |  |
 | ------- |
@@ -480,4 +482,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2032-largest-odd-number-in-string) |
+| [3055-maximum-odd-binary-number](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3055-maximum-odd-binary-number) |
 <!---LeetCode Topics End-->

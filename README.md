@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [2238-a-number-after-a-double-reversal](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2238-a-number-after-a-double-reversal) |
 ## Array
 |  |
 | ------- |

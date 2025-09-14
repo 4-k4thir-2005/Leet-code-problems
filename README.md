@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3055-maximum-odd-binary-number](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3055-maximum-odd-binary-number) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Array
 |  |
 | ------- |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-count-distinct-numbers-on-board](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2679-count-distinct-numbers-on-board) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Backtracking
 |  |
 | ------- |

@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [2502-sort-the-people](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2502-sort-the-people) |
 | [2679-count-distinct-numbers-on-board](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2679-count-distinct-numbers-on-board) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [2238-a-number-after-a-double-reversal](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2238-a-number-after-a-double-reversal) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Array
 |  |
 | ------- |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Backtracking
 |  |
 | ------- |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [0692-top-k-frequent-words](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0692-top-k-frequent-words) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Binary Search
 |  |
 | ------- |

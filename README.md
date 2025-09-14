@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2032-largest-odd-number-in-string) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [3055-maximum-odd-binary-number](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3055-maximum-odd-binary-number) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [2238-a-number-after-a-double-reversal](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2238-a-number-after-a-double-reversal) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Array
 |  |
 | ------- |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1585-the-kth-factor-of-n](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1585-the-kth-factor-of-n) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [2491-smallest-even-multiple](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2491-smallest-even-multiple) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -447,10 +450,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1806-count-of-matches-in-tournament) |
 | [2679-count-distinct-numbers-on-board](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2679-count-distinct-numbers-on-board) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Trie
 |  |
 | ------- |

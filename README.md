@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [0412-fizz-buzz](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## Array
 |  |
 | ------- |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2432-number-of-zero-filled-subarrays) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## Backtracking
 |  |
 | ------- |

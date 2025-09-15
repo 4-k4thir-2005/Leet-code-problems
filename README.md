@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [0015-3sum](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0015-3sum) |
 | [0633-sum-of-square-numbers](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0633-sum-of-square-numbers) |
+| [0075-sort-colors](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0075-sort-colors) |
 ## String
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0015-3sum) |
 | [0692-top-k-frequent-words](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0692-top-k-frequent-words) |
 | [2502-sort-the-people](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2502-sort-the-people) |
+| [0075-sort-colors](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0075-sort-colors) |
 ## Math
 |  |
 | ------- |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0075-sort-colors](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0075-sort-colors) |
 ## Backtracking
 |  |
 | ------- |

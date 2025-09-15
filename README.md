@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3367-find-the-sum-of-encrypted-integers) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Array
 |  |
 | ------- |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3367-find-the-sum-of-encrypted-integers) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Backtracking
 |  |
 | ------- |

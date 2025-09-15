@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2502-sort-the-people) |
 | [2679-count-distinct-numbers-on-board](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2679-count-distinct-numbers-on-board) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [1256-rank-transform-of-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1256-rank-transform-of-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [1256-rank-transform-of-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1256-rank-transform-of-an-array) |
 ## Math
 |  |
 | ------- |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [1256-rank-transform-of-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1256-rank-transform-of-an-array) |
 ## Backtracking
 |  |
 | ------- |

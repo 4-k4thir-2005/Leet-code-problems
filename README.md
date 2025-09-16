@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0412-fizz-buzz) |
 | [1970-sorting-the-sentence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1970-sorting-the-sentence) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1603-running-sum-of-1d-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Sliding Window
 |  |
 | ------- |

@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3055-maximum-odd-binary-number](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3055-maximum-odd-binary-number) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [0412-fizz-buzz](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0412-fizz-buzz) |
+| [1970-sorting-the-sentence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1970-sorting-the-sentence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1256-rank-transform-of-an-array) |
+| [1970-sorting-the-sentence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1970-sorting-the-sentence) |
 ## Math
 |  |
 | ------- |

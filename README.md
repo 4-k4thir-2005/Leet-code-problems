@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [0412-fizz-buzz](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0412-fizz-buzz) |
 | [1970-sorting-the-sentence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1970-sorting-the-sentence) |
+| [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 ## Dynamic Programming
 |  |
 | ------- |

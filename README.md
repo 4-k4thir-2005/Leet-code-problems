@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [1256-rank-transform-of-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1256-rank-transform-of-an-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 ## Binary Search
 |  |
 | ------- |

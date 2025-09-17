@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2235-capitalize-the-title](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2235-capitalize-the-title) |
 ## Dynamic Programming
 |  |
 | ------- |

@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2235-capitalize-the-title](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2235-capitalize-the-title) |
 | [2365-percentage-of-letter-in-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2365-percentage-of-letter-in-string) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2341-count-prefixes-of-a-given-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1256-rank-transform-of-an-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2341-count-prefixes-of-a-given-string) |
 ## Backtracking
 |  |
 | ------- |

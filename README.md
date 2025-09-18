@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-capitalize-the-title](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2235-capitalize-the-title) |
 | [2365-percentage-of-letter-in-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2365-percentage-of-letter-in-string) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |

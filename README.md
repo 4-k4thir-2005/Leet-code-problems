@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1580-shuffle-the-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1580-shuffle-the-array) |
 ## Backtracking
 |  |
 | ------- |

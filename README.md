@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1970-sorting-the-sentence) |
 | [1217-relative-sort-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1217-relative-sort-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1217-relative-sort-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0692-top-k-frequent-words) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [0215-kth-largest-element-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |

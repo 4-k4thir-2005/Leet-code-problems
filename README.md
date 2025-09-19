@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0371-sum-of-two-integers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1256-rank-transform-of-an-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2341-count-prefixes-of-a-given-string) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## Backtracking
 |  |
 | ------- |

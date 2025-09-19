@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-count-prefixes-of-a-given-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2341-count-prefixes-of-a-given-string) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [1217-relative-sort-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1217-relative-sort-array) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 ## Backtracking
 |  |
 | ------- |

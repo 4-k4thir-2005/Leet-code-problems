@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [1217-relative-sort-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1217-relative-sort-array) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1256-rank-transform-of-an-array) |
 | [1970-sorting-the-sentence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1970-sorting-the-sentence) |
 | [1217-relative-sort-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1217-relative-sort-array) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Math
 |  |
 | ------- |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [1217-relative-sort-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1217-relative-sort-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Backtracking
 |  |
 | ------- |

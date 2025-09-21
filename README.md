@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [0292-nim-game](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0292-nim-game) |
+| [2083-three-divisors](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2083-three-divisors) |
 ## Array
 |  |
 | ------- |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0204-count-primes) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2844-sum-of-squares-of-special-elements) |
+| [2083-three-divisors](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2083-three-divisors) |
 ## Number Theory
 |  |
 | ------- |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [2491-smallest-even-multiple](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2491-smallest-even-multiple) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [2083-three-divisors](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2083-three-divisors) |
 ## Prefix Sum
 |  |
 | ------- |

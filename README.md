@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [0412-fizz-buzz](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## Array
 |  |
 | ------- |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1580-shuffle-the-array) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1975-minimum-distance-to-the-target-element) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## Backtracking
 |  |
 | ------- |

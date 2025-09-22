@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1217-relative-sort-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Math
 |  |
 | ------- |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1580-shuffle-the-array) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Backtracking
 |  |
 | ------- |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Stack
 |  |
 | ------- |

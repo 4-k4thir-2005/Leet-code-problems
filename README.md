@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0633-sum-of-square-numbers) |
 | [0075-sort-colors](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0151-reverse-words-in-a-string) |
+| [0958-sort-array-by-parity-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0958-sort-array-by-parity-ii) |
 ## String
 |  |
 | ------- |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [0958-sort-array-by-parity-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0958-sort-array-by-parity-ii) |
 ## Math
 |  |
 | ------- |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-minimum-distance-to-the-target-element](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [0958-sort-array-by-parity-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0958-sort-array-by-parity-ii) |
 ## Backtracking
 |  |
 | ------- |

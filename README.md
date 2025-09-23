@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1217-relative-sort-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [2312-most-frequent-number-following-key-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2181-smallest-index-with-equal-value](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2181-smallest-index-with-equal-value) |
+| [2312-most-frequent-number-following-key-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [2312-most-frequent-number-following-key-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 ## Binary Search
 |  |
 | ------- |

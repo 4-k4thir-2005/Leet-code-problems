@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2331-intersection-of-multiple-arrays) |
+| [2480-find-subarrays-with-equal-sum](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2480-find-subarrays-with-equal-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2331-intersection-of-multiple-arrays](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2331-intersection-of-multiple-arrays) |
+| [2480-find-subarrays-with-equal-sum](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2480-find-subarrays-with-equal-sum) |
 ## Backtracking
 |  |
 | ------- |

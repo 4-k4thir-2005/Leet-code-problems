@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2312-most-frequent-number-following-key-in-an-array) |
+| [2331-intersection-of-multiple-arrays](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2331-intersection-of-multiple-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [0958-sort-array-by-parity-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0958-sort-array-by-parity-ii) |
+| [2331-intersection-of-multiple-arrays](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2331-intersection-of-multiple-arrays) |
 ## Math
 |  |
 | ------- |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2181-smallest-index-with-equal-value](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2181-smallest-index-with-equal-value) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2331-intersection-of-multiple-arrays](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2331-intersection-of-multiple-arrays) |
 ## Backtracking
 |  |
 | ------- |
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2312-most-frequent-number-following-key-in-an-array) |
+| [2331-intersection-of-multiple-arrays](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2331-intersection-of-multiple-arrays) |
 ## Binary Search
 |  |
 | ------- |

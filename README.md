@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2181-smallest-index-with-equal-value](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2181-smallest-index-with-equal-value) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2312-most-frequent-number-following-key-in-an-array) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1927-maximum-ascending-subarray-sum) |
 ## Backtracking
 |  |
 | ------- |

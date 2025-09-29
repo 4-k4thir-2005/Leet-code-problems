@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0300-longest-increasing-subsequence) |
+| [0264-ugly-number-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0264-ugly-number-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2331-intersection-of-multiple-arrays) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2480-find-subarrays-with-equal-sum) |
+| [0264-ugly-number-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0264-ugly-number-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [0292-nim-game](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0292-nim-game) |
 | [2083-three-divisors](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2083-three-divisors) |
+| [0264-ugly-number-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0264-ugly-number-ii) |
 ## Array
 |  |
 | ------- |
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [0215-kth-largest-element-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0264-ugly-number-ii) |
 ## Bucket Sort
 |  |
 | ------- |

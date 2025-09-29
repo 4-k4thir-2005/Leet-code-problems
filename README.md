@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0292-nim-game) |
 | [2083-three-divisors](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2083-three-divisors) |
 | [0264-ugly-number-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0264-ugly-number-ii) |
+| [1284-four-divisors](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1284-four-divisors) |
 ## Array
 |  |
 | ------- |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2331-intersection-of-multiple-arrays](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2331-intersection-of-multiple-arrays) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2480-find-subarrays-with-equal-sum) |
+| [1284-four-divisors](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1284-four-divisors) |
 ## Backtracking
 |  |
 | ------- |

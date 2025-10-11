@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0264-ugly-number-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0264-ugly-number-ii) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0934-bitwise-ors-of-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0934-bitwise-ors-of-subarrays) |
 ## Sorting
 |  |
 | ------- |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1284-four-divisors](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1284-four-divisors) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0934-bitwise-ors-of-subarrays) |
 ## Backtracking
 |  |
 | ------- |

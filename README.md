@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2480-find-subarrays-with-equal-sum](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2480-find-subarrays-with-equal-sum) |
 | [1284-four-divisors](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1284-four-divisors) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [0412-fizz-buzz](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0412-fizz-buzz) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Combinatorics
 |  |
 | ------- |

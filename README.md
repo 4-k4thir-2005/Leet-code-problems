@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2083-three-divisors) |
 | [0264-ugly-number-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0264-ugly-number-ii) |
 | [1284-four-divisors](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1284-four-divisors) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Array
 |  |
 | ------- |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2331-intersection-of-multiple-arrays](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2331-intersection-of-multiple-arrays) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2480-find-subarrays-with-equal-sum) |
 | [1284-four-divisors](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1284-four-divisors) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Backtracking
 |  |
 | ------- |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1603-running-sum-of-1d-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Sliding Window
 |  |
 | ------- |

@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0958-sort-array-by-parity-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0958-sort-array-by-parity-ii) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3704-count-partitions-with-even-sum-difference](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0934-bitwise-ors-of-subarrays) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Backtracking
 |  |
 | ------- |

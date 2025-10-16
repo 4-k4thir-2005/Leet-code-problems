@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0958-sort-array-by-parity-ii) |
 | [2331-intersection-of-multiple-arrays](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2331-intersection-of-multiple-arrays) |
 | [2561-number-of-distinct-averages](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2561-number-of-distinct-averages) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Math
 |  |
 | ------- |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2561-number-of-distinct-averages) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2331-intersection-of-multiple-arrays) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Binary Search
 |  |
 | ------- |

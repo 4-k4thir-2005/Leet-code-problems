@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [0151-reverse-words-in-a-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0151-reverse-words-in-a-string) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2561-number-of-distinct-averages) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Backtracking
 |  |
 | ------- |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2331-intersection-of-multiple-arrays) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Binary Search
 |  |
 | ------- |

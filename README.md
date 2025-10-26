@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0264-ugly-number-ii) |
 | [2561-number-of-distinct-averages](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2561-number-of-distinct-averages) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Backtracking
 |  |
 | ------- |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0048-rotate-image](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0048-rotate-image) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Counting Sort
 |  |
 | ------- |

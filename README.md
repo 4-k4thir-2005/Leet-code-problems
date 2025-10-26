@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2480-find-subarrays-with-equal-sum](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2480-find-subarrays-with-equal-sum) |
 | [0264-ugly-number-ii](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0264-ugly-number-ii) |
 | [2561-number-of-distinct-averages](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2561-number-of-distinct-averages) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2561-number-of-distinct-averages](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2561-number-of-distinct-averages) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2331-intersection-of-multiple-arrays](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2331-intersection-of-multiple-arrays) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Binary Search
 |  |
 | ------- |

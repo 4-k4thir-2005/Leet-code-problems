@@ -408,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
+| [4012-earliest-time-to-finish-one-task](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/4012-earliest-time-to-finish-one-task) |
 ## Backtracking
 |  |
 | ------- |

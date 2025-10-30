@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2561-number-of-distinct-averages](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2561-number-of-distinct-averages) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |

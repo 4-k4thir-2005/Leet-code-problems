@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [0151-reverse-words-in-a-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/0151-reverse-words-in-a-string) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2186-count-vowel-substrings-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/4-k4thir-2005/Leet-code-problems/tree/master/2186-count-vowel-substrings-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
